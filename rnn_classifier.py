@@ -3,8 +3,6 @@ import numpy
 import tensorflow as tf
 import pickle
 
-USC_EMAIL = 'cbhaskar@usc.edu'  # TODO(student): Fill to compete on rankings.
-PASSWORD = 'f872a9bb9c2ef735'  # TODO(student): You will be given a password via email.
 TRAIN_TIME_MINUTES = 9
 class DatasetReader(object):
 
